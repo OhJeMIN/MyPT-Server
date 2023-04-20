@@ -5,15 +5,19 @@ https://bejewled-airplane-070.notion.site/MyPT-afcb859011754280b6872a12425c789f
 https://www.notion.so/MyPT-afcb859011754280b6872a12425c789f?pvs=4
 ## 📖 상세 내용
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4395e763-6d64-47bb-acca-73d74d19e991/Untitled.png)
+![image](https://user-images.githubusercontent.com/61536578/233282182-f8f89e7a-db8e-4bb1-9e1d-2a9ed6b4807e.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37f02ce8-f17e-4bc6-9025-4d01b7877231/Untitled.png)
+![image](https://user-images.githubusercontent.com/61536578/233282249-8a4e98ce-a5be-40be-aca9-5ce1dc35e397.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b81c95e-edb6-4be7-9bdd-3352f7188c15/Untitled.png)
+![image](https://user-images.githubusercontent.com/61536578/233282323-c3f001c2-8a5b-44d5-91cc-ebb69c4865b8.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1b94a1f-46fb-4ac9-8870-c504b429a127/Untitled.png)
+![image](https://user-images.githubusercontent.com/61536578/233282358-7b9ddee1-8e6e-4064-956d-1721a0a6b6a0.png)
 
-[망고조_시연영상.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77a0ceed-8b94-4f53-96f2-098e6093b33d/망고조_시연영상.mp4)
+
+
+https://user-images.githubusercontent.com/61536578/233282604-0349112d-6b05-4e70-a0b9-44e022bb16e7.mp4
+
+
 
 ## 🛠️ 사용 기술 및 라이브러리
 
