@@ -1,8 +1,6 @@
 # MyPT-Server
 
 #### 프로젝트 소개!!
-https://bejewled-airplane-070.notion.site/MyPT-afcb859011754280b6872a12425c789f
-https://www.notion.so/MyPT-afcb859011754280b6872a12425c789f?pvs=4
 ## 📖 상세 내용
 
 ![image](https://user-images.githubusercontent.com/61536578/233282182-f8f89e7a-db8e-4bb1-9e1d-2a9ed6b4807e.png)
