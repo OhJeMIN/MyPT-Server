@@ -16,7 +16,6 @@ https://user-images.githubusercontent.com/61536578/233282604-0349112d-6b05-4e70-
 
 ## ERD
 ![image](https://github.com/OhJeMIN/MyPT-Server/assets/61536578/27fdd49d-fead-4926-a263-1183dc0f43ca)
-![image](https://github.com/OhJeMIN/MyPT-Server/assets/61536578/0522818d-edfa-4931-9ce1-e429a96c7b8d)
 
 ## 🛠️ 사용 기술 및 라이브러리
 
